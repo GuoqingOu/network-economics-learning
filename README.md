@@ -8,6 +8,8 @@
 
 - [第一次学习：网络、邻接矩阵与基础指标](notes/01-network-basics.md)
 - [第一次学习配套练习](exercises/01-network-basics.md)
+- [第二次学习：中心性与关键节点](notes/02-centrality-and-key-players.md)
+- [第二次学习配套练习](exercises/02-centrality-and-key-players.md)
 - [经典论文阅读入口](classic-papers/README.md)
 
 ## 学习主线
@@ -34,7 +36,7 @@ network-economics-learning/
 ## 学习进度
 
 - [x] 第一次学习：网络、邻接矩阵与基础指标
-- [ ] 中心性和关键节点
+- [x] 第二次学习：中心性与关键节点
 - [ ] 社会学习与信息扩散
 - [ ] 内生网络形成
 - [ ] 网络博弈与竞争

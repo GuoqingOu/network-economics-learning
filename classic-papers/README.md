@@ -10,3 +10,8 @@
 4. Ballester, Calvó-Armengol, and Zenou (2006), “Who’s Who in Networks. Wanted: The Key Player.” [DOI](https://doi.org/10.1111/j.1468-0262.2006.00709.x)
 
 推荐顺序是先读第 1 篇了解研究地图，再在后续单元中分别进入网络形成和关键节点模型。这里暂时不要求一次读完。
+
+## 与学习单元的对应
+
+- 第一次学习主要对应 Jackson (2014) 的研究地图。
+- 第二次学习主要对应 Ballester, Calvó-Armengol, and Zenou (2006) 的中心性、行为与 key player 问题。
