@@ -15,3 +15,4 @@
 
 - 第一次学习主要对应 Jackson (2014) 的研究地图。
 - 第二次学习主要对应 Ballester, Calvó-Armengol, and Zenou (2006) 的中心性、行为与 key player 问题。
+- 第三次学习对应 DeGroot (1974), “Reaching a Consensus,” *Journal of the American Statistical Association*, 69(345), 118–121。[DOI](https://doi.org/10.1080/01621459.1974.10480137)。重点理解加权平均更新，以及收敛与共识的条件；与[第三单元讲义](../notes/03-social-learning-and-diffusion.md)配合阅读。
